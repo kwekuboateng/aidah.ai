@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="54px" height="54px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>iPad Pro Portrait</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPad-Pro-Portrait">
+            <g id="ic_keyboard">
+                <path d="M0,0 L300,0 L300,300 L0,300 L0,0 Z" id="Bounds-2" fill-opacity="0" fill="#FF0000"></path>
+                <path d="M250,62.5 L50,62.5 C36.25,62.5 25.125,73.75 25.125,87.5 L25,212.5 C25,226.25 36.25,237.5 50,237.5 L250,237.5 C263.75,237.5 275,226.25 275,212.5 L275,87.5 C275,73.75 263.75,62.5 250,62.5 L250,62.5 Z M137.5,100 L162.5,100 L162.5,125 L137.5,125 L137.5,100 L137.5,100 Z M137.5,137.5 L162.5,137.5 L162.5,162.5 L137.5,162.5 L137.5,137.5 L137.5,137.5 Z M100,100 L125,100 L125,125 L100,125 L100,100 L100,100 Z M100,137.5 L125,137.5 L125,162.5 L100,162.5 L100,137.5 L100,137.5 Z M87.5,162.5 L62.5,162.5 L62.5,137.5 L87.5,137.5 L87.5,162.5 L87.5,162.5 Z M87.5,125 L62.5,125 L62.5,100 L87.5,100 L87.5,125 L87.5,125 Z M200,212.5 L100,212.5 L100,187.5 L200,187.5 L200,212.5 L200,212.5 Z M200,162.5 L175,162.5 L175,137.5 L200,137.5 L200,162.5 L200,162.5 Z M200,125 L175,125 L175,100 L200,100 L200,125 L200,125 Z M237.5,162.5 L212.5,162.5 L212.5,137.5 L237.5,137.5 L237.5,162.5 L237.5,162.5 Z M237.5,125 L212.5,125 L212.5,100 L237.5,100 L237.5,125 L237.5,125 Z" id="Shape" fill="#E50770"></path>
+            </g>
+        </g>
+    </g>
+</svg>

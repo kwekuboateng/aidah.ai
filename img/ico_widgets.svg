@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="54px" height="54px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>iPad Pro Portrait</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPad-Pro-Portrait">
+            <g id="ic_image_aspect_ratio">
+                <path d="M0,0 L300,0 L300,300 L0,300 L0,0 Z" id="Bounds" fill-opacity="0" fill="#FF0000"></path>
+                <path d="M200,125 L175,125 L175,150 L200,150 L200,125 L200,125 Z M200,175 L175,175 L175,200 L200,200 L200,175 L200,175 Z M100,125 L75,125 L75,150 L100,150 L100,125 L100,125 Z M150,125 L125,125 L125,150 L150,150 L150,125 L150,125 Z M250,50 L50,50 C36.25,50 25,61.25 25,75 L25,225 C25,238.75 36.25,250 50,250 L250,250 C263.75,250 275,238.75 275,225 L275,75 C275,61.25 263.75,50 250,50 L250,50 Z M250,225 L50,225 L50,75 L250,75 L250,225 L250,225 Z" id="Shape" fill="#E50770"></path>
+            </g>
+        </g>
+    </g>
+</svg>

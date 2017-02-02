@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="54px" height="54px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>iPad Landscape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPad-Landscape">
+            <g id="ic_local_phone">
+                <path d="M0,0 L300,0 L300,300 L0,300 L0,0 Z" id="Bounds" fill-opacity="0" fill="#FF0000"></path>
+                <path d="M82.75,134.875 C100.75,170.25 129.75,199.125 165.125,217.25 L192.625,189.75 C196,186.375 201,185.25 205.375,186.75 C219.375,191.375 234.5,193.875 250,193.875 C256.875,193.875 262.5,199.5 262.5,206.375 L262.5,250 C262.5,256.875 256.875,262.5 250,262.5 C132.625,262.5 37.5,167.375 37.5,50 C37.5,43.125 43.125,37.5 50,37.5 L93.75,37.5 C100.625,37.5 106.25,43.125 106.25,50 C106.25,65.625 108.75,80.625 113.375,94.625 C114.75,99 113.75,103.875 110.25,107.375 L82.75,134.875 L82.75,134.875 Z" id="Shape" fill="#999999"></path>
+            </g>
+        </g>
+    </g>
+</svg>
