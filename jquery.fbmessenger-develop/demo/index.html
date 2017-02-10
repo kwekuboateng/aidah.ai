@@ -88,32 +88,32 @@
 					.fbMessenger('scrollQuickReplies', 4, { delay: 1000 })
 					.fbMessenger('selectQuickReply', 4, { delay: 1000 })
 					.fbMessenger('typingIndicator', { delay: 1000 })
-					.fbMessenger('message', 'bot', 'nice, please ', { timestamp: now, delay: 1000 })
-					.fbMessenger('typingIndicator', { delay: 500 })
-					.fbMessenger('message', 'bot', 'Let\'s narrow things down. What\'s the occasion?', { timestamp: now, delay: 1000 })
+//					.fbMessenger('message', 'bot', 'nice, please ', { timestamp: now, delay: 1000 })
+//					.fbMessenger('typingIndicator', { delay: 500 })
+					.fbMessenger('message', 'bot', 'check out the best offers and click on the one want to buy', { timestamp: now, delay: 1000 })
 					.fbMessenger('showGenericTemplate', [
 						{
-							imageUrl: 'unsplash-birthday-annie-spratt.jpg',
-							title: 'Birthday',
+							imageUrl: 'apple7.jpg',
+							title: 'jumia.com',
 							subtitle: 'Find presents for a birthday.',
 							buttons: [
-								'Select Birthday'
+								'Buy from jumia'
 							]
 						},
 						{
-							imageUrl: 'unsplash-christmas-darren-coleshill.jpg',
-							title: 'Christmas',
-							subtitle: 'Find seasonal presents for Christmas.',
+							imageUrl: 'apple64.png',
+							title: 'Amazon.com',
+							subtitle: 'this is a promotional offer',
 							buttons: [
-								'Select Christmas'
+								'Buy from amazon'
 							]
 						},
 						{
-							imageUrl: 'unsplash-wedding-anne-edgar.jpg',
-							title: 'Wedding',
-							subtitle: 'Find presents for bride and groom.',
+							imageUrl: 'apple.png',
+							title: 'shoppersghana.com',
+							subtitle: 'This is the coolest price you can get on any shopping platform',
 							buttons: [
-								'Select Wedding'
+								'Buy from shoppersghana'
 							]
 						}
 					], { timestamp: now, delay: 2000 })
@@ -122,7 +122,8 @@
 					.fbMessenger('scrollGenericTemplate', 1, { delay: 1000 })
 					.fbMessenger('selectGenericTemplate', 0, { delay: 1000 })
 					.fbMessenger('typingIndicator', { delay: 500 })
-					.fbMessenger('message', 'bot', 'Awwww... so it\'s that time of the year again! 🎅🎄🎁', { timestamp: now, delay: 2000 })
+					.fbMessenger('message', 'bot', 'confirm to buy', { timestamp: now, delay: 2000 })
+					.fbMessenger('message', 'user', '!', { timestamp: now, delay: 5000 })
 					.fbMessenger('typingIndicator', { delay: 500 })
 					.fbMessenger('showButtonTemplate', 'Who\'s the present for?', [
 						'Significant Other',
